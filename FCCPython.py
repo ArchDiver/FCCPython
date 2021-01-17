@@ -6,4 +6,5 @@ def flip(x):
 print(flip(x))
 
 def rev(y):
+    z = []
     
