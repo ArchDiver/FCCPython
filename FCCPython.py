@@ -1,4 +1,4 @@
 x = 10
 
-def run(x):
-    
+def flip(x):
+    return reversed(x)
