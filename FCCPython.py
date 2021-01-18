@@ -7,4 +7,5 @@ print(flip(x))
 
 def rev(y):
     z = []
+    for
     
