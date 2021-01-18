@@ -11,4 +11,8 @@ def rev(y):
     for i in range(len(x), 0, -1):
         z.append(i)
     return z
-    
+
+y = input("Give me another word")
+
+print(rev(y))
+
