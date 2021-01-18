@@ -5,14 +5,14 @@ def flip(x):
 
 print(flip(x))
 
-# def rev(y):
-#     z = []
+def rev(y):
+    z = []
 
-#     for i in range(len(y), 0, -1):
-#         z.append(y(i))
-#     return z
+    for i in range(len(y), 0, -1):
+        z.append(y(i))
+    return z
 
-# y = input("Give me another word: ")
+y = input("Give me another word: ")
 
-# print(rev(y))
+print(rev(y))
 
