@@ -1,9 +1,9 @@
-# x = input("Give me a word: ")
+x = input("Give me a word: ")
 
-# def flip(x):
-#     return x[::-1]
+def flip(x):
+    return x[::-1]
 
-# print(flip(x))
+print(flip(x))
 
 def rev(y):
     z = []
